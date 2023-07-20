@@ -1,3 +1,3 @@
 # Projetos-Data-Science
 Lista de projetos criados a partir de estudos sobre Python e Data Science
-![Capa Github](https://github.com/ogait07/Projetos-Data-Science/assets/120313590/5c199030-5675-4459-b0f9-fd25e48d71f4)
+![Banner Github 2](https://github.com/ogait07/Projetos-Data-Science/assets/120313590/79a3759a-8c62-4aa2-9979-85bd908902f4)
