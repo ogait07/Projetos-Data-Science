@@ -18,9 +18,9 @@ Unindo então o meu propósito de desenvolver pessoas através do ensino, junto 
 
 
 **Links:**
-* [Email](http://tiagomarinho.com.br)
-* [Linked in](www.linkedin.com/in/tiago-marinho-44303a284)
-* [Instagram](https://www.instagram.com/tiago.b.marinho/)
+* [SITE](http://tiagomarinho.com.br)
+* [LINKEDIN](www.linkedin.com/in/tiago-marinho-44303a284)
+* [INSTAGRAM](https://www.instagram.com/tiago.b.marinho/)
 
 
 ##PROJETOS
