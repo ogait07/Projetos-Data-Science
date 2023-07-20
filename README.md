@@ -23,5 +23,5 @@ Unindo então o meu propósito de desenvolver pessoas através do ensino, junto 
 * [INSTAGRAM](https://www.instagram.com/tiago.b.marinho/)
 
 
-## PROJETOS
+## Projetos
 
