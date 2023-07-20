@@ -7,7 +7,7 @@ Dedico parte da minha vida em estudos para o desenvolvimento humano através do 
 
 **Identificar -** pois, é impossivel a mudança de rota sem a consciência de que algo me impede de chegar mais longe
 
-**Entender -** Depois que identifico, aprendo sobre a dificuldade e desenvolvo meios para combatê-lo até torna-la em um inimigo comum.
+**Entender -** Depois que identifico, aprendo sobre a dificuldade e desenvolvo meios para combatê-la até torna-la em um inimigo comum.
 
 **Praticar -** Identificando e Entendendo, começo o meu processo de crescimento praticando as ações necessárias para a mudança de perfil, pois, sem dúvida nenhuma, o nosso crescimento encontra-se na prática diária e nas soluções que são geradas através delas.
 
