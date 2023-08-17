@@ -25,3 +25,5 @@ Unindo o meu propósito de desenvolver pessoas através do ensino, junto da opor
 
 ## Projetos
 
+Abaixo, seguem alguns links de projetos que desenvolvi com o intuito de buscar soluções comuns para problemas importantes.
+
