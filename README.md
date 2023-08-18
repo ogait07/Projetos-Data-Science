@@ -27,4 +27,4 @@ Unindo o meu propósito de desenvolver pessoas através do ensino, junto da opor
 
 Abaixo, seguem alguns links de projetos que desenvolvi com o intuito de buscar soluções comuns para problemas importantes.
 
-* [PROJETO EXPOSITÓRIO AIRBNB] (https://colab.research.google.com/drive/1CQxJrFWNuTiPyHD1SOL543UP4ZsibfWT)
+* PROJETO EXPOSITÓRIO AIRBNB https://colab.research.google.com/drive/1CQxJrFWNuTiPyHD1SOL543UP4ZsibfWT
